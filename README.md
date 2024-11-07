@@ -12,6 +12,10 @@
 
 [DATA ANALYSIS](#data-analysis)
 
+[RESULTS FROM EXCEL](#results-from-excel)
+
+[RESULTS FROM SQL](#results-from-sql)
+
 [VISUALIZATION](#visualization)
 
 
@@ -154,9 +158,6 @@ ORDER BY Product
 
 <img width="776" alt="PIVOT TABLE SALES DATA" src="https://github.com/user-attachments/assets/c77b8c14-c8e8-4ef3-9e65-d4df2c09f3f5">
 
-<img width="953" alt="EXCEL CONSUMER DATA" src="https://github.com/user-attachments/assets/d9084dd8-c5c8-45ad-b7c2-4875b5f03ce3">
-
-<img width="959" alt="EXCEL" src="https://github.com/user-attachments/assets/7ed32515-d745-482f-a6a0-ec15d3aef14c">
 
 ### RESULTS FROM SQL
 
